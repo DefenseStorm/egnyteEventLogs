@@ -1,0 +1,15 @@
+# conf file must be in same directory as script
+
+[json]
+app_name = Egnyte Event Logs
+version = 1.0
+
+[egnyte]
+api_url = https://DOMAIN.egnyte.com
+state_dir = ./state
+pid_file = ./egnyteEventLogs.pid
+username = 
+password = 
+client_id = 
+client_secret = 
+
